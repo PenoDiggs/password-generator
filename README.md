@@ -1,2 +1,2 @@
-# passwprd-generator
+# password-generator
 Automatically generates password 
